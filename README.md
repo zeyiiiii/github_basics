@@ -5,3 +5,13 @@
 + git commit -m "  " -m "    "
 + git push
 + git init
++ git branch
++ git checkout -b (branch name)
++ git diff (branch name)
++ git pull
++ git branch -d (delete branch)
++ git commit -am
++ git reset
+
+
+
